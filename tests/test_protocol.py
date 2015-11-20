@@ -1,4 +1,4 @@
-from pyneslab.protocol import command_list, verify_checksum, run_command, read_ack, check_response_error, \
+from protocol import command_list, verify_checksum, run_command, read_ack, check_response_error, \
     read_analog_values
 
 __author__ = 'william'
